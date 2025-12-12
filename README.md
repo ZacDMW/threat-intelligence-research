@@ -192,7 +192,7 @@ Other repositories in my cybersecurity portfolio:
 
 ## Milestones
 
-* [ ] Published first threat actor profile (LockBit)
+* [X] Published first threat actor profile (LockBit)
 * [ ] Complete 3 comprehensive threat actor profiles
 * [ ] Map 5+ threat actors to MITRE ATT&CK
 * [ ] Track one active campaign in real-time
